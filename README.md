@@ -1,3 +1,3 @@
 # Machine learning technologies
 
-##IU5 6 term
+## IU5 6 term
